@@ -1,0 +1,61 @@
+body{
+    background-color: pink;
+}
+.hat{
+    height: 430px;
+    width: 730px;
+    background-color: whitesmoke;
+    border: 5px solid plum;
+    margin: auto;
+    margin-top: 50px;
+    display: flex;
+}
+.pen{
+    height: 430px;
+    width: 40%;
+    
+    
+}
+.cat{
+    height: 430px; 
+    width:  60%;
+    
+    padding-left: 50px;
+}
+.rats{
+    width: 300px;
+margin-bottom: 30%;
+}
+.cow{
+    text-align: center;
+    color: hotpink;
+}
+input{
+    height: 30px;
+    width: 200px;
+    margin-top: 30px;
+    border-radius: 8px;
+    background-color: aliceblue;
+}
+.water{
+    
+    border-radius: 10px;
+    background-color: palevioletred;
+    height: 40px;
+    width: 97px;
+}
+.two{
+    display: flex;
+    margin-top: 20px;
+}   
+.tea{
+    margin-top: 10px;
+    margin-left: 10px;
+
+}  
+.you{
+    margin-top: 10px;
+    margin-left: 10px;
+    color: palevioletred;
+    text-decoration: none;
+}                            

@@ -1,0 +1,19 @@
+body{
+    color: blue;
+}
+.rap{
+    color: purple;
+    font-weight: bolder;
+    font-size: large;
+    text-align: center;
+}
+@media screen and ( max-width:700px) {
+    .rap{
+        background-color: black;
+        font-weight: lighter;
+        font-size: 20px;
+        
+
+
+    }
+}       
