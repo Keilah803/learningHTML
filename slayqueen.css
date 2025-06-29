@@ -1,0 +1,17 @@
+.slay{
+    height: 500px;
+    width: 500px;
+    background-color: blueviolet;
+    border-radius: 120%;
+    margin: auto;
+    padding-top: 60px;
+
+}
+.van{
+    height: 400px;
+    width: 400px;
+    background-color: aqua;
+border-radius: 120%;
+    margin: auto;
+    
+}
