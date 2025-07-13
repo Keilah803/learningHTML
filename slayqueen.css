@@ -4,7 +4,7 @@
     background-color: blueviolet;
     border-radius: 120%;
     margin: auto;
-    padding-top: 60px;
+    padding-top: 60px
 
 }
 .van{
@@ -14,4 +14,32 @@
 border-radius: 120%;
     margin: auto;
     
+}
+.rat{
+    height: 300px;
+    width: 300px;
+    background-color: black;
+    border-radius: 120%;
+    margin: auto;
+}
+.bat{
+    height: 200px;
+    width: 200px;
+    background-color: blue;
+    border-radius: 120%;
+    margin: auto;
+}
+.dog{
+    height: 100px;
+    width: 100px;
+    background-color: red;
+    border-radius: 120%;
+    margin: auto;
+}
+.pen{
+    height: 50px;
+    width: 50px;
+    background-color: antiquewhite;
+    border-radius: 120%;
+    margin: auto;
 }
